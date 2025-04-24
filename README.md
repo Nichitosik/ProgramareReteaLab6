@@ -1,3 +1,4 @@
+https://github.com/Nichitosik/ProgramareReteaLab6.git
 Laborator 6: Aplicație Client NTP
 Descriere
 Aceasta este o aplicație de consolă dezvoltată în Python pentru Laboratorul 6 de Programare în Rețea. Aplicația utilizează protocolul NTP (Network Time Protocol) pentru a obține ora exactă de la un server NTP (pool.ntp.org) și afișează:
